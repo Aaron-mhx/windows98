@@ -7,8 +7,8 @@
 
 # Site settings
 title: miaohongxuan の Windows 98
-baseurl: "/windows98" # the subpath of your site, e.g. /blog
-url: "http://blog.on-high.top/windows98" # http://www.54gaozhe.com # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.on-high.top/windows98/" # http://www.54gaozhe.com # the base hostname & protocol for your site
 
 # https://jekyllrb.com/docs/pagination/
 paginate: 5
