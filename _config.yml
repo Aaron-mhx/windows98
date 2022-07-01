@@ -13,7 +13,7 @@ url: "http://blog.on-high.top/windows98" # http://www.54gaozhe.com # the base ho
 # https://jekyllrb.com/docs/pagination/
 paginate: 5
 # specify the destination of the pagination pages
-paginate_path: "/windows98/:num"
+paginate_path: "/:num"
 
 excerpt_separator:  '<!-- more -->'
 
